@@ -115,7 +115,7 @@ video-streaming-platform
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/video-streaming-platform.git
+git clone https://github.com/thrishulgaddam/video-streaming-platform.git
 cd video-streaming-platform
 ```
 
